@@ -1,8 +1,4 @@
-cd "C:\Users\rnfod\Downloads\Rocycle-main"
 
-$ErrorActionPreference = "Stop"
-
-$readme = @'
 <div align="center">
 
 # ♻️ ROCYCLE
